@@ -1,0 +1,2 @@
+# OptimizedSpigot
+Optimizations for PaperSpigot
